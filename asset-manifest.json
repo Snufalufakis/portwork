@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portwork/static/css/main.66ace666.css",
+    "main.js": "/portwork/static/js/main.062bc095.js",
+    "static/media/pokewar.png": "/portwork/static/media/pokewar.b4fd36bffaa93626cc84.png",
+    "static/media/offload.png": "/portwork/static/media/offload.20d812c6b9084f4b17ff.png",
+    "static/media/logo-modified.png": "/portwork/static/media/logo-modified.70572cb899e2a08ad979.png",
+    "static/media/protofolio.png": "/portwork/static/media/protofolio.e9e1c28f6bc2f973f426.png",
+    "static/media/LinkedIn resume-1.png": "/portwork/static/media/LinkedIn resume-1.af369a7ff64642caefb9.png",
+    "static/media/PlayfairDisplay-Regular.ttf": "/portwork/static/media/PlayfairDisplay-Regular.27705d9c43e8c36b1abd.ttf",
+    "static/media/Roboto-Regular.ttf": "/portwork/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/wds.png": "/portwork/static/media/wds.b81a94daa8477248149c.png",
+    "static/media/generator.png": "/portwork/static/media/generator.919630342a832fed866d.png",
+    "static/media/portfolio3.0.png": "/portwork/static/media/portfolio3.0.b3deb26312d2c5ec6bb4.png",
+    "index.html": "/portwork/index.html",
+    "main.66ace666.css.map": "/portwork/static/css/main.66ace666.css.map",
+    "main.062bc095.js.map": "/portwork/static/js/main.062bc095.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66ace666.css",
+    "static/js/main.062bc095.js"
+  ]
+}
