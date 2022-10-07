@@ -1,0 +1,27 @@
+
+.contact-form{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    opacity: 0;
+    overflow: hidden;
+    clear: both;
+    animation: fadeInUp 2s 2s;
+    animation-fill-mode: forwards;
+    
+  }
+  .flat {
+    color: #0c0c0b;
+    font-size: 11px;
+    letter-spacing: 3px;
+    text-decoration: none;
+    padding: 8px 10px;
+    border: 1px solid #4c4c4b;
+    float: left;
+    border-radius: 4px;
+    background: 0 0;
+    text-transform: uppercase;
+    float: right;
+    text-align: center;
+    margin-right: 10px;
+  }
